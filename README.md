@@ -16,6 +16,8 @@ See its [README](extension/README.md) for more details.
 The `remote-helper` folder contains a helper extension that lets the main
 extension work properly when in a remote workspace.
 
+Test2
+
 # Contribution
 
 Contributions are welcome! Fork this repository, then see below for instructions
