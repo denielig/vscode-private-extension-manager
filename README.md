@@ -9,7 +9,7 @@ install, and update extensions from any NPM registry. This lets you distribute
 organization-specific extensions using a private registry server such as
 [Sonatype Nexus](https://www.sonatype.com/product-nexus-repository) or
 [Verdaccio](https://verdaccio.org).
-
+Test
 The `extension` folder contains the main extension.
 See its [README](extension/README.md) for more details.
 
