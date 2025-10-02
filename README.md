@@ -18,6 +18,8 @@ extension work properly when in a remote workspace.
 
 Test2
 
+Test3
+
 # Contribution
 
 Contributions are welcome! Fork this repository, then see below for instructions
